@@ -1,68 +1,96 @@
-# Atul Yadav 
+# SYED SABAH UD DIN GILANI
 
-#### `Full Stack Developer`
+## `Full Stack Developer`
 
 ## Summary
-👨‍💻 Code, 🎨 Design, 🎮 Gaming and 🛹 Skateboarding. Collaborating with micro-entrepreneurs, small and medium scale businesses to build their next ideas.
+
+I provide solutions in the field of video streaming, webinars, video chats, video recording and post-processing, collaging, video editors and
+online video streaming processors, as well as screen capture/sharing, remote control, application sharing and whiteboard applications for both web,
+mobile, and desktop downloadable apps. With 12+ years of software engineering experience and a large collection of ready and owned, available for
+adaptation and integration source code, I provide cost-efficient solutions for a wide range of customer cases. Extensive working experience with
+companies ranging from private, public and startups. With a strong can do and will do attitude, strive for challenges to make my mark in my field.
+Looking forward to creating powerful and exciting Mobile Applications.
 
 ## Experience
-- #### CTO at [Helptap](https://www.helptap.com)
-    *May 2020 - present*
-    > HelpTap provides all the resources — knowledge, tools, experts, and capital — to talented entrepreneurs looking to validate, build, and grow their business ideas.
 
-- #### Full-Stack Developer at [WIP.Studio](https://wip.studio)
-    *October 2017 - present*
-    > End-to-end development of mobile and web applications. Prototype, Design, Architecture, Development, DevOps, Publish on the App and Play stores. Open source libraries, tutorials, boilerplates, opinionated frameworks and more. Collaboration with Graphic Designers and Digital Marketing teams.
+- ### Lead Full-Stack Developer at [CarinoTech](https://www.carinotech.com)
 
-- #### Senior Software Engineer at [Noonic](http://noonic.com/)
-    *October 2014 - October 2017*
-    > Conceptualize, assess, design, develop, test Web and Mobile applications using primarily Linux, Apache, MySQL, MongoDB, NodeJS (using frameworks such as ExpressJS), PHP (using frameworks such as Symfony2, Laravel 5) Javascript (using frameworks/libraries such as React, Redux, JQuery, AngularJS, etc) CSS/3, HTML/5, UI frameworks such as Twitter Bootstrap, JQuery UI, MaterializeCSS. Tools such as Teamwork, Slack, JIRA, Invision, Adobe Photoshop, etc. with Agile Methodologies.
+    *Jan 2017 - present*
+    > End-to-end development of mobile and web applications including Prototype, Design, Architecture, Development, DevOps, Test and Publish to live server
+    and stores.
 
-- #### Software Engineer at [Network 18](http://www.network18online.com/)
-    *October 2012 - September 2014 (2 years)*
-    > Design and Developement of Application in Linux, Apache, MySQL and PHP (LAMP) areas.
+- #### Full-Stack Developer at [MaxRemind](https://mremind.com)
 
-- #### Software Developer at [Fermion Infotech](http://fermioninfotech.com/)
-    *September 2010 - October 2012 (2 years 1 month)*
-    > Website Development, Website Designing, Database Designing
+    *Feb 2013 - Dec 2017*
+    > End-to-end development of mobile and web applications. Prototype, Design, Architecture, Development, DevOps, Publish on the App and Play
+    stores. Open source libraries, tutorials, boilerplates, opinionated frameworks and more. Collaboration with Graphic Designers and Digital
+    Marketing teams.
+
+- #### Software Engineer at [MTBC](https://mtbc.com/)
+
+    *Oct 2010 - Dec 2013*
+    > Conceptualize, assess, design, develop, test Web and Mobile applications using primarily Linux, Apache, MySQL, MongoDB, NodeJS (using
+    frameworks such as ExpressJS), PHP (using frameworks such as Symfony2, Laravel 5) Javascript (using frameworks/libraries such as React,
+    Redux, JQuery, AngularJS, etc) CSS/3, HTML/5, UI frameworks such as Twitter Bootstrap, JQuery UI, MaterializeCSS. Tools such as Teamwork,
+    Slack, JIRA, Invision, Adobe Photoshop, etc. with Agile Methodologies.
 
 ## Skills & Expertise
-- #### Frontend
-    HTML &bull; CSS &bull; JavaScript &bull; ES2015 &bull; React &bull; Redux &bull; jQuery &bull; AJAX &bull; AngularJS &bull; MeteorJS &bull; Twitter Bootstrap &bull; MaterialzeCSS &bull; Material Design &bull; SemanticUI &bull; Cordova &bull; PhoneGap &bull; React Native 
+
+- ### Frontend
+
+    HTML &bull; CSS &bull; JavaScript &bull; TypeScript &bull; ES2015 &bull; Angular &bull; React &bull; Redux &bull; jQuery &bull; AJAX &bull;
+    AngularJS &bull; MeteorJS &bull; Bootstrap &bull; Tailwind &bull; MaterialzeCSS &bull; Material Design &bull; SemanticUI &bull; Cordova &bull;
+    PhoneGap &bull; React Native
 
 - #### Backend
-    NodeJS &bull; ExpressJS &bull; GraphQL &bull; Python &bull; Flask &bull; Django &bull; PHP &bull; MySQL &bull; MongoDB &bull; LAMP &bull; Laravel Framework &bull; Symfony Framework &bull; JSON &bull; XML &bull; SOAP &bull; REST 
+
+    NodeJS &bull; ExpressJS &bull; GraphQL &bull; IONIC &bull; Objectiv-C &bull; Swift &bull; C# &bull; Java Python &bull; Flask &bull; Django
+    &bull; PHP &bull; MSSQL &bull; SQLite &bull; MySQL &bull; MongoDB &bull; LAMP &bull; Laravel Framework &bull; Symfony Framework &bull;
+    JSON &bull; XML &bull; SOAP &bull; REST
 
 - #### Tools
-    Git &bull; SVN &bull; GitHub &bull; Bitbucket &bull; JIRA &bull; Slack &bull; Adobe Photoshop &bull; Microsoft Office &bull; Linux &bull; Invision &bull; Teamwork
+
+    Docker &bull; Kubernetes &bull; GitHub &bull; Bitbucket &bull; JIRA &bull; Slack &bull; Jasmine &bull; Karma &bull; LogLevel &bull; Wintson &bull;
+    JSNLog &bull; GitLab &bull; Linux &bull; AWS &bull; Visual Studio &bull; VS Code &bull; X-Code &bull; Android Studio &bull; VIM &bull; MacOS &bull;
+    iOS &bull; Android &bull; Ubuntu &bull; Windows &bull; PI OS
 
 - #### Miscellaneous
-    Web Design &bull; Web Development &bull; Mobile Development &bull; Database Design &bull; User Experience &bull; T-Shirt Graphics &bull; Logo &bull; Banners
+
+    Web Design &bull; Web Development &bull; Mobile Development &bull; Database Design &bull; User Experience &bull; WebRTC Development &bull;
+    Whiteboard Development &bull; Video Editors
 
 ## Education
-- #### Bachelors of Engineering - [T.E.C.](http://terna.org/), [University of Mumbai](http://mu.ac.in)
-    *Electronics and Telecommunication, 2006 - 2010*
-    > Grade: 61%
 
-- #### College - [I.C.L. Motital Jhunhunwala](www.iclesmj.edu.in/)
-    *Higher Secondary School Certificate - Science, 2004 - 2006*
-    > Grade: 74.30%
+- ### Master of Science in Computer Science - [NUST](https://nust.edu.pk)
 
-- #### School - [I.E.S.](http://www.ies.edu/)
-    *Secondary School Certificate, 1994 - 2004*
-    > Grade: 74.80%
+    *Computational Science & Engineering, 2012 - 2016*
+    > CGPA: 2.95
+
+- #### Bachalor of Scienct in Computer Science - [UAAR](https://uaar.edu.pk)
+
+    *BS - CS, 2008 - 2012*
+    > CGPA: 3.94
+
+- #### DAE - [PSCIT](https://sultanafoundation.edu.pk)
+
+    *Diploma of Associate Engineer, 2005 - 2008*
+    > Grade: 74.50%
 
 ## Languages
+
 - English *(Full professional proficiency)*
-- Hindi *(Native or bilingual proficiency)*
+- Urdu *(Native or bilingual proficiency)*
 
 ## Interests
-Skateboarding &bull; Cycling &bull; Reading
+
+Research &bull; Walking &bull; Reading
 
 ## Contact
-Email: [atul.12788@gmail.com](mailto:atul.12788@gmail.com)
 
-Skype: [atul.12788](skype:atul.12788) 
+Email: [leepianz@gmail.com](mailto:leepianz@gmail.com)
+
+Skype: [leepians](skype:leepians)
 
 ## Social
-[LinkedIn](https://in.linkedin.com/in/atulmy) &bull; [Twitter](https://twitter.com/atulmy) &bull; [Instagram](https://instagram.com/atulmy/) &bull; [Goodreads](https://www.goodreads.com/user/show/4785546-atul-yadav)
+
+[LinkedIn](https://www.linkedin.com/in/leepians/) &bull; [Twitter](https://twitter.com/leepians)
