@@ -46,13 +46,13 @@ Looking forward to creating powerful and exciting Mobile Applications.
 
     NodeJS &bull; ExpressJS &bull; GraphQL &bull; IONIC &bull; Objectiv-C &bull; Swift &bull; C# &bull; Java Python &bull; Flask &bull; Django
     &bull; PHP &bull; MSSQL &bull; SQLite &bull; MySQL &bull; MongoDB &bull; LAMP &bull; Laravel Framework &bull; Symfony Framework &bull;
-    JSON &bull; XML &bull; SOAP &bull; REST
+    JSON &bull; XML &bull; SOAP &bull; REST &bull; Nodemon &bull; PM2 &bull; Forever &bull; Nohup &bull; Apache &bull; Nginx
 
 - #### Tools
 
     Docker &bull; Kubernetes &bull; GitHub &bull; Bitbucket &bull; JIRA &bull; Slack &bull; Jasmine &bull; Karma &bull; LogLevel &bull; Wintson &bull;
     JSNLog &bull; GitLab &bull; Linux &bull; AWS &bull; Visual Studio &bull; VS Code &bull; X-Code &bull; Android Studio &bull; VIM &bull; MacOS &bull;
-    iOS &bull; Android &bull; Ubuntu &bull; Windows &bull; PI OS
+    iOS &bull; Android &bull; Ubuntu &bull; Windows &bull; PI OS &bull; Appium &bull; BrowserStack &bull; Azure DevOps
 
 - #### Miscellaneous
 
